@@ -1,0 +1,33 @@
+# https://python.org/
+
+# Acabo de crear un comentario
+
+"""
+Este es mi 
+segundo 
+comentario
+"""
+
+'''
+Este es mi 
+segundo 
+comentario
+'''
+
+my_variable = "Esta es mi variable origninal
+my_variable = "Este es el nuevo valor de mi variable"
+
+MY_CONSTANT = "Es mi constante" # es de mentira
+
+# Los que vienen a continuación son datos primitivos 
+my_int = 1 # debe ser un número entero
+my_float = 3.5 # me acepta esta función números decimales
+my_bool = True
+my_bool = False
+my_string = "Mi cadena de texto"
+my_other_string = 'Mi otra cadena de texto'
+
+print("¡Hola, Python!")
+
+
+
